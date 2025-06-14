@@ -101,15 +101,8 @@ Contributions are welcome!
 
 ## 👤 Author
 
-**Mohammed Ali**
+**Mohammed**
 📬 [GitHub](https://github.com/Im-Mohammed)
-
----
-
-## 📜 License
-
-This repository is licensed under the **MIT License**.
-Feel free to use, modify, and distribute with credit.
 
 ---
 
