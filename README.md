@@ -121,8 +121,3 @@ If this repo helped you, leave a ⭐ to support my work!
   <img src="https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif" height="200" />
 </p>
 ```
-### Want This in Your Repo?
-
-1. Create a new file in your repo named `README.md`.
-2. Paste the above Markdown content.
-3. Commit and push it!
