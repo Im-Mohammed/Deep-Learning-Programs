@@ -89,16 +89,6 @@ pip freeze > requirements.txt
 
 ---
 
-## 🤝 Contributing
-
-Contributions are always welcome! You can:
-
-* Submit a Pull Request.
-* Open an Issue for bugs or improvements.
-* Add new deep learning examples with proper documentation.
-
----
-
 ## 🧑‍💻 Author
 
 **Mohammed**
