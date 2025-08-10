@@ -109,9 +109,3 @@ Contributions are welcome!
 
 If this repo helped you, leave a ⭐ to support my work!
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif" height="200" />
-</p>
-
-
-
