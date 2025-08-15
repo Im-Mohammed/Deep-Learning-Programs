@@ -105,6 +105,4 @@ Contributions are welcome!
 📬 [GitHub](https://github.com/Im-Mohammed)
 
 ---
-## ⭐ Show Some Love
 
-If this repo helped you, leave a ⭐ to support my work!
